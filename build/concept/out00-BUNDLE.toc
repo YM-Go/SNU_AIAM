@@ -1,0 +1,3 @@
+([('concept',
+   '/Users/goyumi/py_django/pj_concept/pj_concept/dist/concept',
+   'EXECUTABLE')],)
